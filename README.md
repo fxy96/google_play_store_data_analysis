@@ -3,7 +3,7 @@
 Introduction
 ====
 - We investigated google play store in depth by analyzing its apps’ data through ***machine learning techniques***. 
-- A research report is available at https://github.com/fxy96/google_play_store_data_analysis/blob/master/google_play_store_analysis.pdf
+- Research report is available at https://github.com/fxy96/google_play_store_data_analysis/blob/master/google_play_store_analysis.pdf
 
 Contributions
 ====
